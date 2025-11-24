@@ -85,7 +85,7 @@ int main()
 }
 
 void info(void) {
-    printf("\t猜数字 (权镇涛43 魏金勇44)\n\n");
+    printf("\t猜数字 ()\n\n");
 }
 
 void menu(void) {
